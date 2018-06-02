@@ -1,0 +1,2 @@
+C:\git\privat\herald\Uthgard.Herald\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\git\privat\herald\Uthgard.Herald\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

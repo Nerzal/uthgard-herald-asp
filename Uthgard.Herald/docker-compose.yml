@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  uthgard.herald:
+    image: uthgardherald
+    build:
+      context: .
+      dockerfile: Uthgard.Herald/Dockerfile
